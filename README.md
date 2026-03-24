@@ -9,10 +9,7 @@ Aplicacion web estatica de estudio basada en flashcards para repasar conceptos d
 - Navega entre tarjetas con botones de anterior y siguiente.
 - Mezcla el orden de las tarjetas con un boton de aleatorizacion.
 - Muestra contador de progreso (tarjeta actual y total).
-- Mantiene el codigo organizado por archivos separados:
-	- `index.html` para estructura.
-	- `styles.css` para estilos.
-	- `script.js` para logica.
+
 
 ## Mejoras futuras sugeridas
 
